@@ -11,7 +11,7 @@ And the number.
 python count.py
 ```
 
-- "ginga-count.py" is a example script with "銀河鉄道の夜", which is a famous Japanese novel.
+- "ginga-count.py" is a example script with "銀河鉄道の夜", which is a famous Japanese novel.  
 The right is free.  
 You have to download the text from AOZORA BUNKO.  
 How to do it...  
