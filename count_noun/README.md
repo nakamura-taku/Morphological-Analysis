@@ -1,13 +1,11 @@
 
-# Morphological-Analysis
+# Count noun
 
-- This is my training page about morphological analysis
+- You can know what word is the most appering in the text.
 
-## Count noun
-- "count.py" is a script to count noun in a text.  
-The text is "example_text.txt".  
-You can know what word is the most appearing, and the number.
-
+## You need...
+- "count.py" is a script.  
+"example_text.txt" : the text you want to count noun.  
 ```
 python count.py
 ```
