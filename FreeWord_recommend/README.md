@@ -8,3 +8,24 @@ Finally, it introduces you restaurants in descending order.
 
 # Description
 ## word_and_speech(txt)
+
+- This function can morphological analysis of your sentence, and extracts noun and adjective from it as a list format.  
+```
+Example: 
+You: ジューシーなお肉が食べたい
+Rtn: ['ジューシー', '肉']
+```
+
+## main()
+
+- main() goes to the "tabelog" directory which have many reviews of restaurants on tabelog.  
+```
+tabelog
+-review_of_shopA.txt
+-review_of_shopB.txt
+-review_of_shopC.txt
+...
+```  
+From each review, main() finds and counts numbers of the noun and the adjective you input.  
+  
+Finally, it introduces you restaurants in descending order of the number.
